@@ -14,7 +14,7 @@ Recently, I've taken an interest in Continual Learning (CL) and I have dabbled i
 
 In my free time, I like to read fiction books and skateboard.
 
-Research Interests:
+# Research Interests:
 - Computer Vision
 - Natural Language Processing
 - Image Processing
