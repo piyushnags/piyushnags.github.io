@@ -13,6 +13,7 @@ Education
 ======
 * M.S. in Computer Science and Engineering, Penn State University, 2024 (expected)
   * Focus on Computer Vision, Deep Learning, and Privacy
+  * Advisor: Dr. Sencun Zhu
   * GPA: 3.95/4.00
 * B.S. in Computer Engineering, Penn State University, 2021
   * Minor: Cybersecurity Computational Foundations
