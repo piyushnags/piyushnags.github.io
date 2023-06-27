@@ -22,10 +22,12 @@ Work Experience
 ======
 * May 2023 - Present: Graduate Research Assistant
   * Penn State University
+  * Working on the Amazon Alexa Taskbot Challenge
   * Supervisor: Dr. Rui Zhang
 
-* Aug 2022 - Present: Research Assistant
+* Aug 2022 - Present: Graduate Teaching Assistant
   * Penn State University
+  * TA for CMPSC 360: Discrete Math for Computer Science
   * Supervisor: Dr. John Hannan
   
 Activities
