@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Piyush's Portfolio"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Piyush Nagasubramaniam"
 description              : &description "Piyush Nagasubramaniam's Personal Website, includes research projects and other relevant information."
 url                      : https://piyushnags.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
