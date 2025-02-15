@@ -3,8 +3,8 @@ title: "Privacy-Preserving Live Video Analytics for Drones via Edge Computing"
 collection: publications
 permalink: /publication/drone
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2024-11-07
+venue: 'Applied Sciences'
 paperurl: 'https://www.mdpi.com/2076-3417/14/22/10254'
 citation: 'Nagasubramaniam, P., Wu, C., Sun, Y., Karamchandani, N., Zhu, S., & He, Y. (2024). Privacy-Preserving Live Video Analytics for Drones via Edge Computing. Applied Sciences, 14(22), 10254. https://doi.org/10.3390/app142210254 '
 ---
