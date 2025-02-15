@@ -2,7 +2,7 @@
 title: "EvoquerBot: A multimedia chatbot leveraging synthetic data for cross-domain assistance"
 collection: publications
 permalink: /publication/evoquer
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'EvoquerBot, developed for the TaskBot challenge, is a multimedia chatbot designed to assist users in completing cooking and DIY tasks within a single session. The bot leverages a coordinated orchestration of submodules for intent classification, task recommendation, task description, and step navigation. This paper addresses the challenges of short development and model training time, data quality in both NLP and multimedia sectors, multimedia response handling, and tailoring the conversation flow to domain-specific user experiences...'
 date: 2023-09-01
 venue: 'Amazon Science'
 paperurl: 'https://www.amazon.science/alexa-prize/proceedings/evoquerbot-a-multimedia-chatbot-leveraging-synthetic-data-for-cross-domain-assistance'
