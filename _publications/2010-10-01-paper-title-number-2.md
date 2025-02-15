@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Privacy-Preserving Live Video Analytics for Drones via Edge Computing"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/drone
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://www.mdpi.com/2076-3417/14/22/10254'
+citation: 'Nagasubramaniam, P., Wu, C., Sun, Y., Karamchandani, N., Zhu, S., & He, Y. (2024). Privacy-Preserving Live Video Analytics for Drones via Edge Computing. Applied Sciences, 14(22), 10254. https://doi.org/10.3390/app142210254 '
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The use of lightweight drones has surged in recent years across both personal and commercial applications, necessitating the ability to conduct live video analytics on drones with limited computational resources. While edge computing offers a solution to the throughput bottleneck, it also opens the door to potential privacy invasions by exposing sensitive visual data to risks. In this work, we present a lightweight, privacy-preserving framework designed for real-time video analytics. By integrating a novel split-model architecture tailored for distributed deep learning through edge computing, our approach strikes a balance between operational efficiency and privacy. We provide comprehensive evaluations on privacy, object detection, latency, bandwidth usage, and object-tracking performance for our proposed privacy-preserving model.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://piyushnags.github.io/files/drone.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Nagasubramaniam, P., Wu, C., Sun, Y., Karamchandani, N., Zhu, S., & He, Y. (2024). Privacy-Preserving Live Video Analytics for Drones via Edge Computing. Applied Sciences, 14(22), 10254. https://doi.org/10.3390/app142210254 
