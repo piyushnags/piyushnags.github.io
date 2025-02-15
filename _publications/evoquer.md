@@ -3,7 +3,7 @@ title: "EvoquerBot: A multimedia chatbot leveraging synthetic data for cross-dom
 collection: publications
 permalink: /publication/evoquer
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-08
+date: 2023-09-01
 venue: 'Amazon Science'
 paperurl: 'https://www.amazon.science/alexa-prize/proceedings/evoquerbot-a-multimedia-chatbot-leveraging-synthetic-data-for-cross-domain-assistance'
 citation: '2023, Penn State University'
